@@ -261,8 +261,6 @@ a.scroll.bnr-btn i{
     left: 0;
 	bottom: -70%
 }
-.bnr-w3pvt-txt h2 span{
-}
 .bnr-w3pvt-txt h4 {
     color: #eee;
     letter-spacing: 1px;
@@ -548,7 +546,6 @@ p.sub-meta {
 .box9 .icon li a{display:block;width:38px;height:38px;background:#f39c12;font-size:15px;color:#fff;margin-right:5px;transition:all .35s ease 0s;-webkit-transition:all .35s ease 0s}
 .box9 .icon a:hover{background:#fff;color:#f39c12;}
 @media only screen and (max-width:990px){}
-}
 p.paragraph {
     color: #888;
     font-size: 16px;
